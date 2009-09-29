@@ -1,0 +1,9 @@
+Package: testcpp
+Version: 1.0
+Title: Testing external pointers with finalization in R using C++
+Date: 27-02-2009
+Author: Lars Relund <lars@relund.dk>
+Maintainer: Lars Relund <lars@relund.dk>
+Depends: R (>= 2.8)
+Description: Show how to create C++ objects with external pointers from R which are deleted automatically from R.
+License: GPL.
